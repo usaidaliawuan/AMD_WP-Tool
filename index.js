@@ -2,7 +2,7 @@ const opn = require("opn")
 const gerator = require('./src/menugenerate')
 
 const malito=require('./src/malito')
-const ownner = { user: "+55 21984191603" }
+const ownner = { user: "+923118915268" }
 const ascii= require('./src/ascii')
 const readline=require('readline-sync')
 
